@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is a [ZettaBlock](https://zettablock.com) GraphQL API use case, which demonstrates how to build a bot that query Ethereum token metadata via GraphQL API.
+
 ## Installation
 
 Clone the repository and install the dependencies.
